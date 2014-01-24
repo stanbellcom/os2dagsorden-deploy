@@ -21,6 +21,12 @@ projects[os2dagsorden_theme_ballerup][download][type] = "git"
 projects[os2dagsorden_theme_ballerup][download][url] = "https://github.com/bellcom/os2dagsorden-theme.git"
 projects[os2dagsorden_theme_ballerup][download][revision] = "ballerup"
 
+; OS2Dagsorden feature
+libraries[os2dagsorden_settings_export][download][type] = git
+libraries[os2dagsorden_settings_export][download][url] = "https://github.com/stanbellcom/os2dagsorden_settings_export.git"
+libraries[os2dagsorden_settings_export][download][revision] = "ballerup"
+libraries[os2dagsorden_settings_export][destination] = modules/os2dagsorden/features
+
 ; OS2Web theme base
 projects[omega][subdir] = "contrib"
 projects[omega][version] = "3.x-dev"
