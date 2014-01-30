@@ -15,6 +15,12 @@ projects[os2dagsorden_theme][download][type] = "git"
 projects[os2dagsorden_theme][download][url] = "https://github.com/stanbellcom/os2dagsorden-theme.git"
 projects[os2dagsorden_theme][download][revision] = "master"
 
+; OS2Dagsorden feature
+libraries[os2dagsorden-custom][download][type] = git
+libraries[os2dagsorden-custom][download][url] = "https://github.com/stanbellcom/os2dagsorden-custom.git"
+libraries[os2dagsorden-custom][download][revision] = "syddjurs"
+libraries[os2dagsorden-custom][destination] = modules/os2dagsorden/features
+
 ; OS2Web theme base
 projects[omega][subdir] = "contrib"
 projects[omega][version] = "3.x-dev"
@@ -22,7 +28,7 @@ projects[omega][version] = "3.x-dev"
 ; OS2Web modules
 projects[os2web_esdh_provider][type] = "module"
 projects[os2web_esdh_provider][download][type] = "git"
-projects[os2web_esdh_provider][download][url] = "https://github.com/stanbellcom/os2web_esdh_provider.git"
+projects[os2web_esdh_provider][download][url] = "https://github.com/OS2web/os2web_esdh_provider.git"
 projects[os2web_esdh_provider][download][revision] = "develop"
 
 projects[os2web_meetings_content_types][type] = "module"
@@ -57,7 +63,7 @@ projects[os2web_edoc_esdh][download][revision] = "develop"
 
 projects[os2web_acadre_esdh][type] = "module"
 projects[os2web_acadre_esdh][download][type] = "git"
-projects[os2web_acadre_esdh][download][url] = "https://github.com/stanbellcom/os2web_acadre_esdh.git"
+projects[os2web_acadre_esdh][download][url] = "https://github.com/OS2web/os2web_acadre_esdh.git"
 projects[os2web_acadre_esdh][download][revision] = "develop"
 
 ; OS2Dagsorden libraries
