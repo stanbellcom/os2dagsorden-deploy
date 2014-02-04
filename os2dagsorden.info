@@ -58,6 +58,7 @@ dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_content
 dependencies[] = views_php
+dependencies[] = file_lock
 dependencies[] = better_exposed_filters
 ;dependencies[] = ldap
 ;dependencies[] = ldap_authentication
@@ -85,6 +86,8 @@ dependencies[] = os2dagsorden_print_meetings
 dependencies[] = os2dagsorden_pdf2htmlex
 dependencies[] = os2web_print_send_to_friend
 dependencies[] = os2web_audit_log
+dependencies[] = os2dagsorden_settings
+dependencies[] = os2dagsorden_file_conversion_manager
 
 ; OS2Web Features
 dependencies[] = os2web_settings

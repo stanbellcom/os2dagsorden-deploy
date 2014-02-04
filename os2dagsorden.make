@@ -35,7 +35,7 @@ projects[omega][version] = "3.x-dev"
 projects[os2web_esdh_provider][type] = "module"
 projects[os2web_esdh_provider][download][type] = "git"
 projects[os2web_esdh_provider][download][url] = "https://github.com/OS2web/os2web_esdh_provider.git"
-projects[os2web_esdh_provider][download][revision] = "develop"
+projects[os2web_esdh_provider][download][revision] = "master"
 
 projects[os2web_meetings_content_types][type] = "module"
 projects[os2web_meetings_content_types][download][type] = "git"
@@ -55,7 +55,7 @@ projects[os2web_esdh_field][download][revision] = "develop"
 projects[os2web_qbrick][type] = "module"
 projects[os2web_qbrick][download][type] = "git"
 projects[os2web_qbrick][download][url] = "https://github.com/OS2web/os2web_qbrick.git"
-projects[os2web_qbrick][download][revision] = "develop"
+projects[os2web_qbrick][download][revision] = "master"
 
 projects[os2web_sbsys_esdh][type] = "module"
 projects[os2web_sbsys_esdh][download][type] = "git"
@@ -70,7 +70,7 @@ projects[os2web_edoc_esdh][download][revision] = "develop"
 projects[os2web_acadre_esdh][type] = "module"
 projects[os2web_acadre_esdh][download][type] = "git"
 projects[os2web_acadre_esdh][download][url] = "https://github.com/OS2web/os2web_acadre_esdh.git"
-projects[os2web_acadre_esdh][download][revision] = "develop"
+projects[os2web_acadre_esdh][download][revision] = "master"
 
 ; OS2Dagsorden libraries
 libraries[ckeditor][download][type]= "get"
@@ -167,6 +167,9 @@ projects[rules][version] = "2.3"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta11"
+
+projects[file_lock][subdir] = "contrib"
+projects[file_lock][version] = "2.x-dev"
 
 projects[omega_tools][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc4"
