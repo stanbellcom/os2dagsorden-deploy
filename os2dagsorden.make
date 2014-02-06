@@ -18,7 +18,7 @@ projects[os2dagsorden_theme][download][revision] = "master"
 ; OS2Dagsorden Ballerup Theme
 projects[os2dagsorden_theme_ballerup][type] = "theme"
 projects[os2dagsorden_theme_ballerup][download][type] = "git"
-projects[os2dagsorden_theme_ballerup][download][url] = "https://github.com/bellcom/os2dagsorden-theme.git"
+projects[os2dagsorden_theme_ballerup][download][url] = "https://github.com/stanbellcom/os2dagsorden-theme.git"
 projects[os2dagsorden_theme_ballerup][download][revision] = "ballerup"
 
 ; OS2Dagsorden feature
