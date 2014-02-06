@@ -66,6 +66,11 @@ projects[os2web_acadre_esdh][download][type] = "git"
 projects[os2web_acadre_esdh][download][url] = "https://github.com/OS2web/os2web_acadre_esdh.git"
 projects[os2web_acadre_esdh][download][revision] = "master"
 
+projects[os2web_pdf_conversion_manager][type] = "module"
+projects[os2web_pdf_conversion_manager][download][type] = "git"
+projects[os2web_pdf_conversion_manager][download][url] = "https://github.com/bellcom/os2web_pdf_conversion_manager.git"
+projects[os2web_pdf_conversion_manager][download][revision] = "master"
+
 ; OS2Dagsorden libraries
 libraries[ckeditor][download][type]= "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip"
