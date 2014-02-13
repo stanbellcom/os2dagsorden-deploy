@@ -70,6 +70,7 @@ dependencies[] = edit_own_user_account_permission
 dependencies[] = smtp
 dependencies[] = lightbox2
 dependencies[] = content_taxonomy
+dependencies[] = php
 
 ; Development - Disable on prod.
 ;dependencies[] = features_tools
