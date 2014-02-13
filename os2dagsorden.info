@@ -58,6 +58,7 @@ dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_content
 dependencies[] = views_php
+dependencies[] = file_lock
 dependencies[] = better_exposed_filters
 ;dependencies[] = ldap
 ;dependencies[] = ldap_authentication
@@ -69,6 +70,7 @@ dependencies[] = edit_own_user_account_permission
 dependencies[] = smtp
 dependencies[] = lightbox2
 dependencies[] = content_taxonomy
+dependencies[] = php
 
 ; Development - Disable on prod.
 ;dependencies[] = features_tools
@@ -85,6 +87,8 @@ dependencies[] = os2dagsorden_print_meetings
 dependencies[] = os2dagsorden_pdf2htmlex
 dependencies[] = os2web_print_send_to_friend
 dependencies[] = os2web_audit_log
+dependencies[] = os2dagsorden_settings
+dependencies[] = os2web_pdf_conversion_manager
 
 ; OS2Web Features
 dependencies[] = os2web_settings
@@ -98,7 +102,7 @@ dependencies[] = os2dagsorden_front_page_views
 dependencies[] = os2dagsorden_meetings_calendar_view
 dependencies[] = os2dagsorden_meeting_views
 dependencies[] = os2dagsorden_rules_and_permissions
-dependencies[] = os2dagsorden_settings
+dependencies[] = os2dagsorden_settings_export
 dependencies[] = os2dagsorden_sidepane_menu
 dependencies[] = os2dagsorden_ultimate_cron_configuration
 dependencies[] = os2dagsorden_fields_and_content_types
