@@ -91,4 +91,25 @@ function os2dagsorden_install() {
   variable_set('date_default_timezone', "Europe/Berlin");
   variable_set('date_first_day', "1");
   variable_set('configurable_timezones', "0");
+  
+  $role = user_role_load_by_name('authenticated user');
+  if($role != false){
+  $roles = array(
+	'create os2web_meetings_spaper content',
+	'delete own os2web_meetings_spaper content',
+	'edit own os2web_meetings_spaper content',
+  );
+  foreach($roles as $name){
+  db_merge('role_permission')->key(array(
+	  'rid' => $role->rid,
+	  'permission' => $name,
+	))->fields(array(
+	  'module' => 'node',
+	))->execute();  
+  }
+  }
+  else{
+	drupal_set_message('"authenticated user" role was not found.', 'error');
+  }
+
 }
