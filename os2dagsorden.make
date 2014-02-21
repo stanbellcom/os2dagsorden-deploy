@@ -15,6 +15,7 @@ projects[os2dagsorden_theme][download][type] = "git"
 projects[os2dagsorden_theme][download][url] = "https://github.com/stanbellcom/os2dagsorden-theme.git"
 projects[os2dagsorden_theme][download][revision] = "master"
 
+
 ; OS2Dagsorden Ballerup Theme
 projects[os2dagsorden_theme_ballerup][type] = "theme"
 projects[os2dagsorden_theme_ballerup][download][type] = "git"
@@ -109,7 +110,10 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.0-beta3"
+projects[context][version] = "3.2"
+
+projects[context_permisssions][subdir] = "contrib"
+projects[context_permisssions][version] = "1.0"
 
 projects[calendar][subdir] = "contrib"
 projects[calendar][version] = "3.0"
