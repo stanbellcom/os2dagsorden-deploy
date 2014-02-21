@@ -105,6 +105,10 @@ projects[ctools][version] = "1.0"
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta3"
 
+projects[context_permisssions][subdir] = "contrib"
+projects[context_permisssions][version] = "1.0"
+
+
 projects[calendar][subdir] = "contrib"
 projects[calendar][version] = "3.0"
 
