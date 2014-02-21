@@ -25,6 +25,7 @@ dependencies[] = path
 dependencies[] = ctools
 dependencies[] = context
 dependencies[] = context_ui
+dependencies[] = context_permisssions
 dependencies[] = calendar
 dependencies[] = date
 dependencies[] = date_api
