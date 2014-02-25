@@ -116,6 +116,12 @@ projects[date][subdir] = "contrib"
 projects[date][version] = "2.5"
 projects[date][patch][] = "http://drupal.org/files/date-views-default-arg-options-1202248-16.patch"
 
+projects[field_collection][subdir] = "contrib"
+projects[field_collection][version] = "1.0"
+
+projects[field_collection_table][subdir] = "contrib"
+projects[field_collection_table][version] = "1.0"
+
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0"
 
@@ -129,7 +135,7 @@ projects[computed_field][subdir] = "contrib"
 projects[computed_field][version] = "1.0-beta1"
 
 projects[entityreference][subdir] = "contrib"
-projects[entityreference][version] = "1.0-rc3"
+projects[entityreference][version] = "1.1"
 
 projects[autologout][subdir] = "contrib"
 projects[autologout][version] = "4.x-dev"
@@ -139,7 +145,7 @@ projects[background_process][subdir] = "contrib"
 projects[background_process][version] = "1.13"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.0-rc3"
+projects[entity][version] = "1.3"
 
 projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
