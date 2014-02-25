@@ -117,10 +117,10 @@ projects[date][version] = "2.5"
 projects[date][patch][] = "http://drupal.org/files/date-views-default-arg-options-1202248-16.patch"
 
 projects[field_collection][subdir] = "contrib"
-projects[field_collection][version] = "1.0"
+projects[field_collection][version] = "1.0-beta5"
 
 projects[field_collection_table][subdir] = "contrib"
-projects[field_collection_table][version] = "1.0"
+projects[field_collection_table][version] = "1.0-beta1"
 
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0"
