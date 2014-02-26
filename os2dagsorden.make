@@ -35,7 +35,7 @@ projects[omega][version] = "3.x-dev"
 ; OS2Web modules
 projects[os2web_esdh_provider][type] = "module"
 projects[os2web_esdh_provider][download][type] = "git"
-projects[os2web_esdh_provider][download][url] = "https://github.com/OS2web/os2web_esdh_provider.git"
+projects[os2web_esdh_provider][download][url] = "https://github.com/stanbellcom/os2web_esdh_provider.git"
 projects[os2web_esdh_provider][download][revision] = "master"
 
 projects[os2web_meetings_content_types][type] = "module"
@@ -70,7 +70,7 @@ projects[os2web_edoc_esdh][download][revision] = "develop"
 
 projects[os2web_acadre_esdh][type] = "module"
 projects[os2web_acadre_esdh][download][type] = "git"
-projects[os2web_acadre_esdh][download][url] = "https://github.com/OS2web/os2web_acadre_esdh.git"
+projects[os2web_acadre_esdh][download][url] = "https://github.com/stanbellcom/os2web_acadre_esdh.git"
 projects[os2web_acadre_esdh][download][revision] = "master"
 
 projects[os2web_pdf_conversion_manager][type] = "module"
