@@ -38326,3 +38326,448 @@ msgstr "Ingen tilgængelige OpenID-identiteter til denne konto."
 msgid "Install another module"
 msgstr "Installér et andet modul"
 
+#: /admin/config
+msgid "OS2dagsorden Setup"
+msgstr "OS2dagsorden OpsÃ¦tningen"
+
+#: /admin/config
+msgid "OS2dagsorden Settings"
+msgstr "OS2dagsorden Indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Cron job frequencies settings"
+msgstr "Cron job frekvens indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Frequency of SOFD import cron job"
+msgstr "Frekvens af SOFD importeret cron job"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Frequency of Acadre import cron job"
+msgstr "Frekvens af Acadre importeret cron job"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Frequency of PDF to HTML conversion cron job"
+msgstr "Frekvens af PDF til HTML konverterings cron job"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Frequency of Adlib (* to PDF) conversion cron job"
+msgstr "Frekvens af Adlib (* til PDF) konverterings cron job"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Meeting view settings"
+msgstr "MÃ¸de-visning indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Expand all bullets on agenda page load"
+msgstr "Udvid alle punkter pÃ¥ dagsorden sideindlÃ¦sning"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether all bullet points will be expanded on page load"
+msgstr ""
+"Dette afgÃ¸r, om alle punktopstillinger skal udvides ved "
+"sideindlÃ¦sning."
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"Not expand (but keep it that way if the bilag has been expanded "
+"before)"
+msgstr ""
+"Udvid ikke (men bevar den i den tilstand, hvis bilag har vÃ¦ret "
+"udvidet fÃ¸r)"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a certain type of bullet point attachment - bilag "
+"will be expanded (activated) when functionality \"Expand whole bullet "
+"point\" is executed."
+msgstr ""
+"Dette afgÃ¸r, om en bestem type af punktopstillings vedhÃ¦ftelser - "
+"bilag vil blive udvidet (aktiveret) nÃ¥r funtionaliteten \"Udvid hele "
+"punktopstilling\" er igangsat."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting end date on meeting view"
+msgstr "Vis mÃ¸de slutdato pÃ¥ mÃ¸de-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a meeting end date is visible on meeting view."
+msgstr "Dette afgÃ¸r, om en mÃ¸de slutdato er synlig pÃ¥ mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting committee on meeting view"
+msgstr "Vis udvalgsmÃ¸de pÃ¥ mÃ¸de-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a meeting committee is visible on meeting view."
+msgstr "Dette afgÃ¸r, om et udvalgsmÃ¸de er synlig pÃ¥ mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting type on meeting view"
+msgstr "Vis mÃ¸detype pÃ¥ mÃ¸de-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a meeting type field is visible on meeting view."
+msgstr "Dette afgÃ¸r, om et mÃ¸detype-felt er synlig pÃ¥ mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show samlet dokument link on meeting view"
+msgstr "Vis samlet dokument link pÃ¥ mÃ¸de-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a samlet dokument link is visible on meeting "
+"view."
+msgstr "Dette afgÃ¸r, om et samlet dokument link er synligt pÃ¥ mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show cancelled participants"
+msgstr "Vis aflyste deltagere"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a list of cancelled participants  is visible on "
+"meeting view"
+msgstr ""
+"Dette afgÃ¸r, om en liste med aflyste deltagere er synligt pÃ¥ "
+"mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show print icon on bullets in agenda"
+msgstr "Vis print-ikon ved punkter i dagsordenen"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a print button is visible on each bullet point on "
+"meeting view."
+msgstr ""
+"Dette afgÃ¸r, om en print-knap, er synlig ved, hvert punkt pÃ¥ "
+"mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"Show bullet point attachment (bilag) on meeting view and bullet point "
+"attachment views"
+msgstr "Vis punkt-bilag pÃ¥ mÃ¸de-visning og punk-billag visninger"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a bullet point attachment converted from PDF to "
+"HTML is going to be shown in the application.<br/>Can be useful to "
+"disable display if users are known to used old browser versions "
+"(>IE8)."
+msgstr ""
+"Dette afgÃ¸r, om et punkt-billag, konverteret fra PDF til HTML vises i "
+"programmet.\r\n"
+"Kan vÃ¦re nyttigt at deaktivere display, hvis brugere er kendt for at "
+"benytte Ã¦ldre browsere (>IE8)."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Group closed closed bullet points as a separate block"
+msgstr "Grupper lukkede punktopstillinger som en separat blok"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Group separately"
+msgstr "GruppÃ©r separat"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Put inline"
+msgstr "SÃ¦t inline"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether closed bullet points will be grouped separately "
+"as a additional block called \"Lukket dagsorden\", or put inline "
+"together the rest of the bullet points."
+msgstr ""
+"Dette afgÃ¸r, om lukkede punktopstillinger vil blive grupperet separat "
+"som en ekstra blok kaldet \"Lukket dagsorden\", eller blive sat "
+"inline, sammen med resten af punktopstillingerne."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Switch beetween all/my committees meetings"
+msgstr "Skift mellem alle/mine udvalgsmÃ¸der"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meetings from all committees"
+msgstr "Vis mÃ¸der fra alle udvalg"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meetings from my committees only"
+msgstr "Vis kun mÃ¸der fra mine udvalg"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether the front page view will show 8 latest meeting "
+"from all committees or only from user committees (member of, follows, "
+"follows+)"
+msgstr ""
+"Dette afgÃ¸r, om forside-visning skal vise 8 seneste mÃ¸der fra alle "
+"udvalg eller kun fra brugerudvalg (medlem af, fÃ¸lger, fÃ¸lger+)"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Collapse/expand menu"
+msgstr "Skjul/Udvid menu"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a side menu expanded/collapsed."
+msgstr "Dette afgÃ¸r, om en side menu udvides/skjules."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Meeting search view settings"
+msgstr "MÃ¸desÃ¸gning-visning indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting committee on meeting serach view"
+msgstr "Vis mÃ¸deudvalg pÃ¥ mÃ¸desÃ¸gning-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a meeting committee is visible on meeting search "
+"view."
+msgstr "Dette afgÃ¸r, om et mÃ¸deudvalg er synlig pÃ¥ mÃ¸desÃ¸gning-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting status on meeting serach view"
+msgstr "Vis mÃ¸destatus pÃ¥ mÃ¸desÃ¸gning-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a meeting status is visible on meeting search "
+"view."
+msgstr "Dette afgÃ¸r, om en mÃ¸destatus er synlig pÃ¥ mÃ¸desÃ¸gning-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Do not show"
+msgstr "Vis ikke"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a meeting title in the calendar view will be "
+"prefixed with the meeting category "
+"(<b>[P]</b>olitical/<b>[O]</b>rganization)"
+msgstr ""
+"Dette afgÃ¸r, om en mÃ¸detitel i kalender-visning, vil blive "
+"foranstillet med mÃ¸dekategorien "
+"(<b>[P]</b>olitisk/<b>[O]</b>rganisatorisk)"
+
+#: /admin/config/os2dagsorden/settings
+msgid "General meeting import settings"
+msgstr "Generel mÃ¸de import indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Participants delimeter sign"
+msgstr "Deltagernes skilletegn"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Path for HTML files to be rendered"
+msgstr "Sti til, hvor HTML-filer bliver renderet"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"Relative path for HTML files to be rendered by os2dagsorden_pdf2htmlEX "
+"module. If empty, the path with the original PDF files will be "
+"used.<br/><b>Important!</b> You will need to create the path yourself."
+msgstr ""
+"Relativ sti til, hvor HTML-filer bliver renderet af "
+"os2dagsorden_pdf2htmlEX moduk. Hvis tomt, vil stien med de originale "
+"PDF-filer, blive brugt. <b>Vigtigt!</b> Du bliver selv nÃ¸dt til at "
+"lave stien."
+
+#: /admin/config/os2dagsorden/settings
+msgid "* > PDF converting configuration"
+msgstr "* > PDF konverterings konfiguration"
+
+#: /admin/config/os2dagsorden/settings
+msgid "User that are just Follow the committee are getting notifications "
+msgstr "Bruger der kun fÃ¸lger udvalget fÃ¥r meddelelser"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"Decide whether user that are just Follow the committee are getting "
+"notifications about new messages appeared on that committee."
+msgstr ""
+"AfgÃ¸r, om bruger der kun fÃ¸lger udvalget, fÃ¥r meddelelser omkring "
+"nye beskeder pÃ¥ udvalget."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Type of files to be converted when importing:"
+msgstr "Typer af filer der skal konverteres nÃ¥r der importeres:"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Comma-separated list of file types. Example: xls,doc,docx,xlsx"
+msgstr "Kommasepareret liste af alle filtyper. Eksempel: xls,doc,docx,xlsx"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Directory to send the files for converting:"
+msgstr "Mappe, hvor filerne skal sendes til konvertering:"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This is the path where files copy for converting"
+msgstr "Dette er stien, hvor filerne kopirers til konvertering."
+
+#: /admin/structure/views/ajax/display/meeting_details/attachment_5/access
+msgid "Available variables"
+msgstr "TilgÃ¦ngelige variabler"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show comments on meeting view"
+msgstr "Vis kommentare pÃ¥ mÃ¸de-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a comments field is visible on meeting view."
+msgstr "Dette afgÃ¸r, om et kommentar-felt er synlig pÃ¥ mÃ¸de-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Default meeting category"
+msgstr "Standard mÃ¸de kategori"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Political"
+msgstr "Politisk"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Organisation"
+msgstr "Organisatorisk"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a default meeting category"
+msgstr "Dette afgÃ¸r en standard mÃ¸de kategori"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Default value for user meeting category"
+msgstr "Standard vÃ¦rdi for bruger mÃ¸de kategori"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Select default value for user meeting category."
+msgstr "VÃ¦lg standard vÃ¦rdi for bruger mÃ¸de kategori."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Add prefix to Bilag/Sag bullet point attachments"
+msgstr "TilfÃ¸j prÃ¦fiks til Bilag/Sag-punkttegn vedhÃ¦ftede filer"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Add <i>Bilag/Sag</i> prefix"
+msgstr "TilfÃ¸j <i>Bilag/Sag</i> prÃ¦fix"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Add no prefix"
+msgstr "TilfÃ¸j ingen prÃ¦fix"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether the will be added a prefix to Bilag or Case "
+"bullet point attachment on import.<br/>e.g. <b>Bilag:</b> Indsigelser "
+"of Bemaerkninger."
+msgstr ""
+"Dette afgÃ¸r, om der vil blive tilfÃ¸jet en prÃ¦fix til Bilag eller "
+"Sag-punkttegn vedhÃ¦ftede filer ved import. e.g. <b>Bilag:</b> "
+"Indsigelser of BemÃ¦rkninger."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Massive expand/collapse button"
+msgstr "Massiv udvide/skjule knap"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether massive expand/collapse button will be shown on "
+"meeting views."
+msgstr ""
+"Dette afgÃ¸r, om massiv-udvide/skjule knap, vil vises pÃ¥ "
+"mÃ¸de-visninger."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show/Hide search block title"
+msgstr "Vis/Skjul sÃ¸geblok titel"
+
+#: /admin/config/os2dagsorden/settings
+msgid "This decides whether a search block title show/hide."
+msgstr "Dette afgÃ¸r, om en sÃ¸geblok titel vises/skjules."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Expand all attachments on bullet point open"
+msgstr "Udvid alle vedhÃ¦ftelser ved Ã¥bent punktopstilling"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether all attachments will be expanded on bullet point "
+"open"
+msgstr ""
+"Dette afgÃ¸r, om alle vedhÃ¦ftelser skal udvides ved Ã¥bning af "
+"punktopstilling."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Meeting view layout"
+msgstr "MÃ¸de-visning layout"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Expand Bilag/Sag"
+msgstr "Udvid Bilag/Sag"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Frontpage layout"
+msgstr "Forside layout"
+
+#: /admin/config/os2dagsorden/settings
+msgid "PDF > HTML Converter settings"
+msgstr "PDF > HTML-Konverter indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Political/organizational category settings."
+msgstr "Politisk/organisatorisk-kategori indstillinger."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Latest 8 meetings/upcoming meetings"
+msgstr "Seneste 8 mÃ¸der/kommende mÃ¸der"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting committee on latest 8 meetings/upcoming meetings view"
+msgstr "Vis mÃ¸deudvalg pÃ¥ seneste 8 mÃ¸der/kommende mÃ¸der-visning"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a meeting committee is visible on latest 8 "
+"meetings/upcoming meetings view."
+msgstr ""
+"Dette afgÃ¸r, om et mÃ¸deudvalg er synligt pÃ¥ seneste 8 "
+"mÃ¸der/kommende mÃ¸der-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting location on latest 8 meetings/upcoming meetings view"
+msgstr "Vis mÃ¸de lokation pÃ¥ seneste 8 mÃ¸der/kommende mÃ¸der-visning "
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"This decides whether a meeting location is visible on latest 8 "
+"meetings/upcoming meetings view."
+msgstr ""
+"Dette afgÃ¸r, om en mÃ¸de-lokation er synlig pÃ¥ seneste 8 "
+"mÃ¸der/kommende mÃ¸der-visning."
+
+#: /admin/config/os2dagsorden/settings
+msgid "Political/organizational category settings"
+msgstr "Politisk/organisatorisk-kategori indstillinger"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Show meeting categories"
+msgstr "Vis mÃ¸dekategorier"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Sidepane menu layout"
+msgstr "Sidepanels-menu layout"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Change order of the main menu links"
+msgstr "Ã†ndre ordenen af hovedmenuens links"
+
+#: /admin/config/os2dagsorden/settings
+msgid "Change order of sidepane blocks"
+msgstr "Ã†ndrer ordenen af sidepanels blokke"
+
+#: /admin/config/os2dagsorden/settings
+msgid ""
+"Comma-separated list of committees changing status of which should "
+"send an email notification."
+msgstr ""
+"Kommasepareret liste over udvalg skiftende status som skulle sende en "
+"e-mail meddelelse."
