@@ -16,10 +16,10 @@ projects[os2dagsorden_theme][download][url] = "https://github.com/stanbellcom/os
 projects[os2dagsorden_theme][download][revision] = "master"
 
 ; OS2Dagsorden feature
-libraries[os2dagsorden-custom][download][type] = git
+libraries[os2dagsorden-custom][download][type] = "git"
 libraries[os2dagsorden-custom][download][url] = "https://github.com/stanbellcom/os2dagsorden-custom.git"
 libraries[os2dagsorden-custom][download][revision] = "syddjurs"
-libraries[os2dagsorden-custom][destination] = modules/os2dagsorden/features
+libraries[os2dagsorden-custom][destination] = "modules/os2dagsorden/features"
 
 ; OS2Web theme base
 projects[omega][subdir] = "contrib"
