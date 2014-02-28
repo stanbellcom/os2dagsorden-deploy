@@ -236,6 +236,6 @@ projects[rubik][version] = "4.0-beta8"
 
 ; Translation file
 libraries[translation][download][type] = "get"
-libraries[translation][download][url] = "https://raw.github.com/OS2web/os2dagsorden-deploy/master/da.po"
+libraries[translation][download][url] = "https://raw.github.com/stanbellcom/os2dagsorden-deploy/syddjurs/da.po"
 libraries[translation][directory_name] = "translations"
 libraries[translation][destination] = ""
