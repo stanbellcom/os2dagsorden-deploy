@@ -61,7 +61,6 @@ dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_content
 dependencies[] = views_php
-dependencies[] = file_lock
 dependencies[] = better_exposed_filters
 ;dependencies[] = ldap
 ;dependencies[] = ldap_authentication
