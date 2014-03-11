@@ -39470,7 +39470,7 @@ msgstr "Møde-visning indstillinger"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Expand all bullets on agenda page load"
-msgstr "Udvid alle punkter på dagsorden sideindlæsning"
+msgstr "Udvid alle punkter på dagsorden ved sideindlæsning"
 
 #: /admin/config/os2dagsorden/settings
 msgid "This decides whether all bullet points will be expanded on page load"
@@ -39532,7 +39532,7 @@ msgstr "Dette afgør, om et samlet dokument link er synligt på møde-visning."
 
 #: /admin/config/os2dagsorden/settings
 msgid "Show cancelled participants"
-msgstr "Vis aflyste deltagere"
+msgstr "Vis afbud fra deltagere"
 
 #: /admin/config/os2dagsorden/settings
 msgid ""
@@ -39667,7 +39667,7 @@ msgstr "Generel møde import indstillinger"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Participants delimeter sign"
-msgstr "Deltagernes skilletegn"
+msgstr "Deltager adkillelses tegn"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Path for HTML files to be rendered"
@@ -39722,7 +39722,7 @@ msgstr "Tilgængelige variabler"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Show comments on meeting view"
-msgstr "Vis kommentare på møde-visning"
+msgstr "Vis kommentarer på møde-visning"
 
 #: /admin/config/os2dagsorden/settings
 msgid "This decides whether a comments field is visible on meeting view."
@@ -39776,7 +39776,7 @@ msgstr ""
 
 #: /admin/config/os2dagsorden/settings
 msgid "Massive expand/collapse button"
-msgstr "Massiv udvide/skjule knap"
+msgstr "Massiv udvid/skjule knap"
 
 #: /admin/config/os2dagsorden/settings
 msgid ""
@@ -39868,7 +39868,7 @@ msgstr "Sidepanels-menu layout"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Change order of the main menu links"
-msgstr "Ændre ordenen af hovedmenuens links"
+msgstr "Ændrer ordenen af hovedmenuens links"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Change order of sidepane blocks"
