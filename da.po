@@ -39776,7 +39776,7 @@ msgstr ""
 
 #: /admin/config/os2dagsorden/settings
 msgid "Massive expand/collapse button"
-msgstr "Massiv udvid/skjule knap"
+msgstr "Massiv udvid/skjul knap"
 
 #: /admin/config/os2dagsorden/settings
 msgid ""
