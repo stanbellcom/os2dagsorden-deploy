@@ -39868,11 +39868,11 @@ msgstr "Sidepanels-menu layout"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Change order of the main menu links"
-msgstr "Ændrer ordenen af hovedmenuens links"
+msgstr "Ændr ordenen af hovedmenuens links"
 
 #: /admin/config/os2dagsorden/settings
 msgid "Change order of sidepane blocks"
-msgstr "Ændrer ordenen af sidepanels blokke"
+msgstr "Ændr ordenen af sidepanels blokke"
 
 #: /admin/config/os2dagsorden/settings
 msgid ""
