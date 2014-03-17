@@ -39783,7 +39783,7 @@ msgid ""
 "This decides whether massive expand/collapse button will be shown on "
 "meeting views."
 msgstr ""
-"Dette afgør, om massiv-udvide/skjule knap, vil vises på "
+"Dette afgør, om massiv-udvid/skjul knap, vil vises på "
 "møde-visninger."
 
 #: /admin/config/os2dagsorden/settings
