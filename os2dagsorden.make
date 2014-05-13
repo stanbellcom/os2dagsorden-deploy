@@ -129,10 +129,10 @@ projects[field_collection_table][subdir] = "contrib"
 projects[field_collection_table][version] = "1.0-beta1"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0"
+projects[features][version] = "2.0"
 
 projects[features_extra][subdir] = "contrib"
-projects[features_extra][version] = "1.0-alpha1"
+projects[features_extra][version] = "1.5"
 
 projects[ftools][subdir] = "contrib"
 projects[ftools][version] = "1.5"
@@ -233,7 +233,7 @@ projects[references][version] = "2.1"
 
 ; LDAP
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "1.0-beta11"
+projects[ldap][version] = "2.0-beta6"
 
 ; Themes
 projects[rubik][version] = "4.0-beta8"
