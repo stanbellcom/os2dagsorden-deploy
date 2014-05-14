@@ -39882,3 +39882,6 @@ msgstr ""
 "Kommasepareret liste over udvalg skiftende status som skulle sende en "
 "e-mail meddelelse."
 
+#: /user/login/sso?destination=
+msgid "You have been successfully authenticated"
+msgstr "Du er automatisk logget på OS2dagsorden"
