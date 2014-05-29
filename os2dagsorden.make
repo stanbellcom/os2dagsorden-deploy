@@ -16,10 +16,10 @@ projects[os2dagsorden_theme][download][url] = "https://github.com/stanbellcom/os
 projects[os2dagsorden_theme][download][revision] = "master"
 
 ; OS2Dagsorden feature
-libraries[os2dagsorden-custom][download][type] = git
+libraries[os2dagsorden-custom][download][type] = "git"
 libraries[os2dagsorden-custom][download][url] = "https://github.com/stanbellcom/os2dagsorden-custom.git"
 libraries[os2dagsorden-custom][download][revision] = "syddjurs"
-libraries[os2dagsorden-custom][destination] = modules/os2dagsorden/features
+libraries[os2dagsorden-custom][destination] = "modules/os2dagsorden/features"
 
 ; OS2Web theme base
 projects[omega][subdir] = "contrib"
@@ -29,7 +29,8 @@ projects[omega][version] = "3.x-dev"
 projects[os2web_esdh_provider][type] = "module"
 projects[os2web_esdh_provider][download][type] = "git"
 projects[os2web_esdh_provider][download][url] = "https://github.com/stanbellcom/os2web_esdh_provider.git"
-projects[os2web_esdh_provider][download][revision] = "master"
+projects[os2web_esdh_provider][download][revision] = "develop"
+
 
 projects[os2web_meetings_content_types][type] = "module"
 projects[os2web_meetings_content_types][download][type] = "git"
@@ -64,7 +65,8 @@ projects[os2web_edoc_esdh][download][revision] = "develop"
 projects[os2web_acadre_esdh][type] = "module"
 projects[os2web_acadre_esdh][download][type] = "git"
 projects[os2web_acadre_esdh][download][url] = "https://github.com/stanbellcom/os2web_acadre_esdh.git"
-projects[os2web_acadre_esdh][download][revision] = "master"
+projects[os2web_acadre_esdh][download][revision] = "develop"
+
 
 projects[os2web_pdf_conversion_manager][type] = "module"
 projects[os2web_pdf_conversion_manager][download][type] = "git"
@@ -103,7 +105,10 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.0-beta3"
+projects[context][version] = "3.2"
+
+projects[context_permisssions][subdir] = "contrib"
+projects[context_permisssions][version] = "1.0"
 
 projects[calendar][subdir] = "contrib"
 projects[calendar][version] = "3.0"
@@ -111,6 +116,12 @@ projects[calendar][version] = "3.0"
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.5"
 projects[date][patch][] = "http://drupal.org/files/date-views-default-arg-options-1202248-16.patch"
+
+projects[field_collection][subdir] = "contrib"
+projects[field_collection][version] = "1.0-beta5"
+
+projects[field_collection_table][subdir] = "contrib"
+projects[field_collection_table][version] = "1.0-beta1"
 
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0"
@@ -125,7 +136,7 @@ projects[computed_field][subdir] = "contrib"
 projects[computed_field][version] = "1.0-beta1"
 
 projects[entityreference][subdir] = "contrib"
-projects[entityreference][version] = "1.0-rc3"
+projects[entityreference][version] = "1.1"
 
 projects[autologout][subdir] = "contrib"
 projects[autologout][version] = "4.x-dev"
@@ -135,7 +146,7 @@ projects[background_process][subdir] = "contrib"
 projects[background_process][version] = "1.13"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.0-rc3"
+projects[entity][version] = "1.3"
 
 projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
@@ -166,9 +177,6 @@ projects[rules][version] = "2.3"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta11"
-
-projects[file_lock][subdir] = "contrib"
-projects[file_lock][version] = "2.x-dev"
 
 projects[omega_tools][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc4"
@@ -227,6 +235,6 @@ projects[rubik][version] = "4.0-beta8"
 
 ; Translation file
 libraries[translation][download][type] = "get"
-libraries[translation][download][url] = "https://raw.github.com/OS2web/os2dagsorden-deploy/master/da.po"
+libraries[translation][download][url] = "https://raw.github.com/stanbellcom/os2dagsorden-deploy/syddjurs/da.po"
 libraries[translation][directory_name] = "translations"
 libraries[translation][destination] = ""
